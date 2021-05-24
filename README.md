@@ -35,3 +35,13 @@
   - [Web App with Streamlit](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20QRYBLNK9U429.pdf)
   - [Support Vector Machine](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20WY4PPS523PW8.pdf)
   - [Naive Bayes Classification](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20V62D5PVSNAKB.pdf)
+
+- ## Udemy Certificates
+  - [Rest API with flask and python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-9af7d726-9d30-4681-849b-54dc5e7bffa5.pdf)
+  - [Python and Flask Bootcamp: Creating Websites with Flask](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-62697bda-64d6-4524-9a3e-431e0f524b40%20(1).pdf)
+  - [Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-47a5bab7-9a3c-4bc6-8585-712b2c0a10ed.pdf)
+  - [NodeJS React Rest](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-46fd7571-e2ee-408f-b7bc-5a9bd2f8c1cd.pdf)
+  - [Machine Learning with R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-a806e3eb-7a6c-4d6e-bdbd-b40df68545a5.pdf)
+  - [Image Recognition Using CNN in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-8af26711-91ec-44e2-989c-3b34bce9b79d.pdf)
+  - [ANN for Buisness Managers in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-3ef958ca-c5a0-4b69-9672-488f3d789aa3.pdf)
+  - [Virtual Personal Assistant Development](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-2a741389-4820-44d9-bef4-a5aa5fabf9d7.pdf)
