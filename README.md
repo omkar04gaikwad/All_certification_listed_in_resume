@@ -2,7 +2,13 @@
 
 - ## Physical Internship Certificates
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
+  ```
+  Summary - Created an Android Application for 7-classes Students. Also managed and maintained the database of students.
+  ```
   - [Content Writer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_110834.PDF)
+  ```
+  Summary - Worked on providing solutions to notes for STD. 8th to 10th and tutoring Doubt Solving Lectures.
+  ```
 - ## Virtual Internship Certificates
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
