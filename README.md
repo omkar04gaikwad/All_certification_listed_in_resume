@@ -1,4 +1,4 @@
-# All Certification listed in My Resume
+# All Certifications listed in My Resume
 
 - ## Physical Internship Certificates
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
