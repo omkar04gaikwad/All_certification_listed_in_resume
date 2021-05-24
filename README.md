@@ -1,6 +1,9 @@
-# All_certification_listed_in_resume
+# All Certification listed in My Resume
 
-- ## Virtual Internships Certificate
+- ## Physical Internship Certificates
+  - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
+  - [Content Writer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_110834.PDF)
+- ## Virtual Internship Certificates
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
   - [JPMorgan Chase & Co. Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/JPmorgan_Virtual_Internship.pdf)
@@ -8,3 +11,21 @@
   - [Quantium Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Quantium_Virtual.pdf)
   - [Deloitte Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/deloitte_Virtual.pdf)
   - [J.P.Morgan Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/jpmc_Virtual.pdf)
+- ## Coursera Certificates
+  - [University of Michigan - Getting Started with Python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2035US8PJEEH54.pdf)
+  - [Getting Started in Google Analytics](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%203T9RT4RA27LW.pdf)
+  - [John Hopkins University - Getting and Cleaning Data](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2047VELPXJMM8S.pdf)
+  - [John Hopkins University - Data Science: Foundations using R](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2049XRKUGG69P6.pdf)
+  - [Multiple Linear Regression](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2067JGAJCMHTW4.pdf)
+  - [Azure Machine Learning Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2086KYZPWSKTBV.pdf)
+  - [University of Michigan - Python Data Structures](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%208Q8PRCJD8P9S.pdf)
+  - [John Hopkins University - Reproducible Research](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%208WSBR54BT9W2.pdf)
+  - [Covid19 Data Analysis Using Python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20BN76P87386AV.pdf)
+  - [John Hopkins University - Exploratory Data Analysis](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20E7EZLMLYZWFL.pdf)
+  - [Clustering Geolocation Data](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20EW89C64NQKNA.pdf)
+  - [SAS - Getting Started with Sas](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20G7CYRVHYAF3W.pdf)
+  - [University of Virginia - Marketing Analytics](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20J43CBE567YD2.pdf)
+  - [Statistical Data Visualization with Seaborn](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20MFBZT78TAS25.pdf)
+  - [Sentiment Analysis](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20QCTXVT8C5HY7.pdf)
+  - [Web App with Streamlit](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20QRYBLNK9U429.pdf)
+  - 
