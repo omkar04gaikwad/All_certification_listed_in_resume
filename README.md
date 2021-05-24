@@ -53,7 +53,7 @@
   - [Artificial Intelligence Seminar by Pantech](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/gaikwad%20omkar%20_PELBIETAI_27_06_20_0465.pdf)
   - [Analog CMOS and it's Implementation Seminar by Pantech](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/gaikwad%20omkar%20_PELTKRCMOS_05_07_0243.pdf)
   - [Current issues in IPR & Anatomy of Patents](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Certificate%20for%20Omkar%20Gaikwad%20for%20_Current%20Issues%20IPR%20_%20Anatom..._.pdf)
-  - [I.I.C.D.C 2019](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/omkar_iicdc.png)
+  - [I.I.C.D.C 2019 - Quater Finalist](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/omkar_iicdc.png)
   - [IOT Course with TIMSP 432 NODERED on IBMcloud](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Adobe%20Scan%20Apr%2028%2C%202021%20(1)-2_rotated.pdf)
   - [C Programming Course](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_125113(1).PDF)
   - [C++ Programming Course](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_125928.PDF)
