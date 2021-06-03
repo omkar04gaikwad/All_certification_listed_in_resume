@@ -1,5 +1,11 @@
 # All Certifications listed in My Resume
-
+- ## HackerRank Certifications
+  - [Java (Basic)](https://www.hackerrank.com/certificates/1fdccfc56f1f)
+  - [JavaScript (Basic)](https://www.hackerrank.com/certificates/502f7520d557)
+  - [Python (Basic)](https://www.hackerrank.com/certificates/c1302edecaa4)
+  - [SQL (Basic)](https://www.hackerrank.com/certificates/a297c67712dc)
+  - [Angular (Basic)](https://www.hackerrank.com/certificates/7de04c0237b2)
+  - [Rest API (Intermediate)](https://www.hackerrank.com/certificates/13b329396417)
 - ## Physical Internship Certificates
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
   ```
