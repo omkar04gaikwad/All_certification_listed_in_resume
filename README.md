@@ -24,7 +24,7 @@
   Summary:
   Completed Practical task modules on 
   Exploratory Data Analysis
-  Predective Analysis
+  Predictive Analysis
   ```
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
   ```
@@ -60,7 +60,7 @@
   ```
   Summary:
   Completed Practical task modules on
-  Client Discovely                            Further analysis & solution presentation
+  Client Discovery                            Further analysis & solution presentation
   Design a Business Case                      Understanding Cloud Computing
   Considerations For Mobilisation             Cloud Feasibility Assessment 
   Define the project approach                 Cloud Readiness Assessment
