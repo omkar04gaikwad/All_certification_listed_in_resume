@@ -115,6 +115,7 @@
   - [ANN for Buisness Managers in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-3ef958ca-c5a0-4b69-9672-488f3d789aa3.pdf)
   - [Virtual Personal Assistant Development](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-2a741389-4820-44d9-bef4-a5aa5fabf9d7.pdf)
 - ## Other Certificates
+  - [Microsoft Azure Essentials Masterclass by E&Y LPP](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar%20Rajendra%20Gaikwad.pdf)
   - [Capgemini Tech Challenge 2020](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Capgemini%20Tech%20Challenge%202020%20_%20Print%20Certificate.pdf)
   - [Python 101 for Data Science](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Cognitiveclass%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
   - [Oracle Dev Gym- Database for Developers: Foundations](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Databases%20for%20Developers_%20Foundations.pdf)
