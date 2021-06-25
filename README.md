@@ -31,6 +31,16 @@
   Exploratory Data Analysis
   Predictive Analysis
   ```
+  -[Investment Management](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Pact_9z4hSxgmm3EfYwh8q_completion_certificate.pdf)
+  ```
+  Overview of industry key players
+  Roles and career pathways in
+  Investment Management
+  Fixed income investing
+  A day in the life of an Analyst
+  Make an investment recommendation
+  for Apple stock (Bonus module)
+  ```
   - [Goldman Sachs Virtual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Goldman_Virtual.pdf)
   ```
   Summary:
