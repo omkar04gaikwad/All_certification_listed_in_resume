@@ -92,6 +92,7 @@
   Provide an investment recommendation
   ```
 - ## Coursera Certificates
+  - [The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20ZH3ZQRNPXGR3.pdf)
   - [John Hopkins University - The Data Scientist's Toolbox](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20PZ3WTUSW75JN.pdf)
   - [John Hopkins University - R programming](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20Z5DF7AQRL7PM.pdf)
   - [John Hopkins University - Getting and Cleaning Data](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2047VELPXJMM8S.pdf)
