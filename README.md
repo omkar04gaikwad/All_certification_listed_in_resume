@@ -6,7 +6,7 @@
   - [SQL (Basic)](https://www.hackerrank.com/certificates/a297c67712dc)
   - [Angular (Basic)](https://www.hackerrank.com/certificates/7de04c0237b2)
   - [Rest API (Intermediate)](https://www.hackerrank.com/certificates/13b329396417)
-- ## Physical Internship Certificates
+- ## Physical Internship Certifications
   - [Graduate Engineer Trainee Internship](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/T03866%20(1).pdf)
   ```
   Full Stack Web Development using technologies such as
@@ -23,7 +23,7 @@
   Summary:
   Worked on providing solutions to notes for students(8th - 10th Grade) and tutoring Doubt Solving Lectures.
   ```
-- ## Virtual Internship Certificates
+- ## Virtual Internship Certifications
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
   ```
   Summary:
@@ -91,7 +91,7 @@
   Financial analysis run the numbers
   Provide an investment recommendation
   ```
-- ## Coursera Certificates
+- ## Coursera Certifications
   - [The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20ZH3ZQRNPXGR3.pdf)
   - [John Hopkins University - The Data Scientist's Toolbox](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20PZ3WTUSW75JN.pdf)
   - [John Hopkins University - R programming](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20Z5DF7AQRL7PM.pdf)
@@ -117,7 +117,7 @@
   - [Support Vector Machine](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20WY4PPS523PW8.pdf)
   - [Naive Bayes Classification](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20V62D5PVSNAKB.pdf)
 
-- ## Udemy Certificates
+- ## Udemy Certifications
   - [Rest API with flask and python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-9af7d726-9d30-4681-849b-54dc5e7bffa5.pdf)
   - [Python and Flask Bootcamp: Creating Websites with Flask](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-62697bda-64d6-4524-9a3e-431e0f524b40%20(1).pdf)
   - [Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-47a5bab7-9a3c-4bc6-8585-712b2c0a10ed.pdf)
@@ -126,7 +126,7 @@
   - [Image Recognition Using CNN in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-8af26711-91ec-44e2-989c-3b34bce9b79d.pdf)
   - [ANN for Buisness Managers in R Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-3ef958ca-c5a0-4b69-9672-488f3d789aa3.pdf)
   - [Virtual Personal Assistant Development](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/UC-2a741389-4820-44d9-bef4-a5aa5fabf9d7.pdf)
-- ## Other Certificates
+- ## Other Certifications
   - [Microsoft Azure Essentials Masterclass by E&Y LPP](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar%20Rajendra%20Gaikwad.pdf)
   - [Capgemini Tech Challenge 2020](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Capgemini%20Tech%20Challenge%202020%20_%20Print%20Certificate.pdf)
   - [Python 101 for Data Science](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Cognitiveclass%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
