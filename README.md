@@ -1,4 +1,9 @@
 # All Certifications listed in My Resume
+- ## Priority Certificates
+  - [Paper Publication](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/621-a.pdf)
+  - [I.I.C.D.C 2019 Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/omkar_iicdc.png)
+  - [Technoxian Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Technoxian_Competition%20(1).pdf)
+  - [TroubleShooting Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/troubleshooting_competition%20(1).pdf)
 - ## HackerRank Certifications
   - [Java (Basic)](https://www.hackerrank.com/certificates/1fdccfc56f1f)
   - [JavaScript (Basic)](https://www.hackerrank.com/certificates/502f7520d557)
