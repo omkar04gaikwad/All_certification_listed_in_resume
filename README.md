@@ -51,19 +51,19 @@
 - ## Physical Internship Certifications
   - [Graduate Engineer Trainee Internship](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/T03866%20(1).pdf)
   ```
-  Full Stack Web Development using technologies such as
-  Flask, Django, React, Angular and ASP.NET and SQLite as Database.
+  Developed an Employee profile Web Application & Dashboard, and Deployed it on the Client Server using 
+  Technologies such as Python, SQL, and Angular.
   ```
   - [Android Developer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar.pdf)
   ```
   Summary:
-  Created an Android Application for 7-classes Students
-  Also managed and maintained the database of students.
+  Programmed an Android application for 7-classes in which students can manage their profiles, give tests, schedule classes, clear their doubts, and chat with professors.
+  Tutored high school students the fundamentals of Python programming and an introductory course to SQL
   ```
   - [Content Writer Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/20210524_110834.PDF)
   ```
   Summary:
-  Worked on providing solutions to notes for students(8th - 10th Grade) and tutoring Doubt Solving Lectures.
+  Took a Summer Job as a Tutor to teach Science and Mathematics to 8th, 9th and 10th graders, helped them by providing notes for their subjects in 2019.
   ```
 - ## Virtual Internship Certifications
   - [ANZ Vitrual Internship Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/ANZ_virtual.pdf)
