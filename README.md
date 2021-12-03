@@ -51,6 +51,7 @@
 - ## Physical Internship Certifications
   - [Graduate Engineer Trainee Internship](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/T03866%20(1).pdf)
   ```
+  Summary:
   Developed an Employee profile Web Application & Dashboard, and Deployed it on the Client Server using 
   Technologies such as Python, SQL, and Angular.
   ```
