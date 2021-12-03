@@ -1,9 +1,9 @@
 # All Certifications listed in My Resume
-- ## Priority Certificates
+- ## Highlights
   - [Paper Publication](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/621-a.pdf)
   - [I.I.C.D.C 2019 Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/omkar_iicdc.png)
-  - [Technoxian Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Technoxian_Competition%20(1).pdf)
-  - [TroubleShooting Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/troubleshooting_competition%20(1).pdf)
+  - [Technoxian Competition Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Technoxian_Competition%20(1).pdf)
+  - [TroubleShooting Competition Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/troubleshooting_competition%20(1).pdf)
 
 - ## Coursera Certifications
   - [The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20ZH3ZQRNPXGR3.pdf)
@@ -135,6 +135,7 @@
   ```
 
 - ## Other Certifications
+  - [GETTING STARTED WITH AI ON JETSON NANO](https://courses.nvidia.com/certificates/06c8330cff6e4a3287a82aa853acb14c)
   - [Microsoft Azure Essentials Masterclass by E&Y LPP](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Omkar%20Rajendra%20Gaikwad.pdf)
   - [Capgemini Tech Challenge 2020](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Capgemini%20Tech%20Challenge%202020%20_%20Print%20Certificate.pdf)
   - [Python 101 for Data Science](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Cognitiveclass%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf)
