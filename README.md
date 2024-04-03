@@ -1,4 +1,9 @@
 # All Certifications listed in My Resume
+- ## Coursera Certifications - Accounting
+  - [University of Virginia -Marketing Analytics](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20J43CBE567YD2.pdf)
+  - [ISB - IT Project Management](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20TJMTW8PZM6MT.pdf)
+  - [SAS - Getting Started with Sas](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20G7CYRVHYAF3W.pdf)
+
 - ## Highlights
   - [Paper Publication](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/621-a.pdf)
   - [I.I.C.D.C 2019 Certificate](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/omkar_iicdc.png)
@@ -16,12 +21,9 @@
   - [University of Michigan - Getting Started with Python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2035US8PJEEH54.pdf)
   - [University of Michigan - Python Data Structures](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%208Q8PRCJD8P9S.pdf)
   - [University of Washington - Machine LearningFoundations](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20V464ZHJJ84FT.pdf)
-  - [University of Virginia - Marketing Analytics](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20J43CBE567YD2.pdf)
-  - [ISB - IT Project Management](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20TJMTW8PZM6MT.pdf)
   - [Getting Started in Google Analytics](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%203T9RT4RA27LW.pdf)
   - [Google Cloud Platform Fundamentals: Core Infrastucture](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20T4M3VX97626Q.pdf)
   - [Azure Machine Learning Studio](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2086KYZPWSKTBV.pdf)
-  -  [SAS - Getting Started with Sas](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20G7CYRVHYAF3W.pdf)
   - [Multiple Linear Regression](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%2067JGAJCMHTW4.pdf)
   - [Covid19 Data Analysis Using Python](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20BN76P87386AV.pdf)
   - [Clustering Geolocation Data](https://github.com/omkar04gaikwad/All_certification_listed_in_resume/blob/main/certifications/Coursera%20EW89C64NQKNA.pdf)
